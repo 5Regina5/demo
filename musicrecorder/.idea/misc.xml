@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/code/musicrecorder/app/src/main/res/drawable/bg_audio.xml" value="0.1" />
+        <entry key="..\:/code/musicrecorder/app/src/main/res/drawable/bg_dialoginfo.xml" value="0.1" />
+        <entry key="..\:/code/musicrecorder/app/src/main/res/layout/activity_audio_list.xml" value="0.1" />
+        <entry key="..\:/code/musicrecorder/app/src/main/res/layout/activity_audio_list2.xml" value="0.16354166666666667" />
+        <entry key="..\:/code/musicrecorder/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/code/musicrecorder/app/src/main/res/layout/activity_recoder.xml" value="0.14666666666666667" />
+        <entry key="..\:/code/musicrecorder/app/src/main/res/layout/content_recoder.xml" value="0.15416666666666667" />
+        <entry key="..\:/code/musicrecorder/app/src/main/res/layout/dialog_audioinfo.xml" value="0.4466666666666667" />
+        <entry key="..\:/code/musicrecorder/app/src/main/res/layout/dialog_rename.xml" value="0.1" />
+        <entry key="..\:/code/musicrecorder/app/src/main/res/layout/item_audio.xml" value="0.1" />
+        <entry key="..\:/code/musicrecorder/app/src/main/res/layout/ree.xml" value="0.17916666666666667" />
+        <entry key="..\:/code/musicrecorder/app/src/main/res/menu/audio_menu.xml" value="0.10126582278481013" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
