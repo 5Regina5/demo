@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
                     myAudioRecorder.prepare();
                     myAudioRecorder.start();
                 }catch (Exception e){
-                    System.out.println("burda hic hata var mi : " + e.getMessage());
+                    e.printStackTrace();
                 }
                 record.setEnabled(false);
                 stop.setEnabled(true);
@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity {
 
                     myAudioRecorder = null;
                 }catch (Exception e){
-                    System.out.println("Hata sebebi: " + e.getMessage());
+                    
                     e.printStackTrace();
                 }
                 record.setEnabled(true);
@@ -133,7 +133,7 @@ public class MainActivity extends AppCompatActivity {
                     mediaPlayer.start();
                     Toast.makeText(getApplicationContext(), "Playing Audio", Toast.LENGTH_LONG).show();
                 } catch (Exception e) {
-                    // make something
+                   e.printStackTrace();
                 }
             }
         });
